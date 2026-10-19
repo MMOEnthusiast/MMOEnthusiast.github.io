@@ -3,7 +3,7 @@
 
 I turn messy, unorganized raw data into clean, structured datasets and clear business insights. 
 
-📫 **Connect with me:** [LinkedIn](https://linkedin.com) | [Email](mailto:youremail@example.com)
+📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/trevor-moore-1b208b249) | [Email](mailto:techlovertrevor@gmail.com)
 
 ---
 
@@ -19,18 +19,11 @@ I turn messy, unorganized raw data into clean, structured datasets and clear bus
 ## 📊 Featured Portfolio Projects
 
 ### 📌 1. [movie_correlation_chart](./link-to-repo-or-folder)
-* **Tech Stack:** `Python` `Pandas` `Data Cleaning` `Exploratory Data Analysis`
+* **Tech Stack: Python and Excel
 * **Problem:** The raw dataset contained inconsistent formatting, duplicate customer entries, and null records, preventing accurate sales reporting.
 * **Solution:** Built a Python cleaning pipeline using Pandas to standardize date structures, impute missing values, and handle anomalous entries.
 * **Key Insight / Outcome:** Produced a cleaned, structured CSV dataset ready for analysis and identified top 3 product sales trends across quarterly data.
 
----
-
-### 📌 2. [Project Title 2 Name](./link-to-repo-or-folder)
-* **Tech Stack:** `SQL` `Excel` `Data Analysis`
-* **Problem:** Analyzed multi-table operational data to identify bottlenecks and key performance indicators (KPIs).
-* **Solution:** Wrote SQL queries using CTEs, `JOIN`s, and window functions to aggregate performance metrics by region and product category.
-* **Key Insight / Outcome:** Summarized key metrics in a clear executive summary sheet showing peak transaction hours and customer retention patterns.
 
 ---
 
