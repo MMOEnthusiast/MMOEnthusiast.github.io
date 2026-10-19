@@ -18,7 +18,7 @@ I turn messy, unorganized raw data into clean, structured datasets and clear bus
 
 ## 📊 Featured Portfolio Projects
 
-### 📌 1. [movie_correlation_chart](./link-to-repo-or-folder)
+### 📌 1. [movie_correlation_chart](https://github.com/MMOEnthusiast/movie_data.git)
 * **Tech Stack: Python and Excel
 * **Problem:** The raw dataset contained inconsistent formatting, duplicate entries, and null records, preventing an accurate representation of the relation between the factors that make up a movie.
 * **Solution:** Building a correlation Matrix to show us how strong the relationship between the factors that make up the creation of a movie (such as its budget and the gross amount of revenue it makes) are.
