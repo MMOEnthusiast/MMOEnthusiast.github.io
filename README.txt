@@ -20,9 +20,9 @@ I turn messy, unorganized raw data into clean, structured datasets and clear bus
 
 ### 📌 1. [movie_correlation_chart](./link-to-repo-or-folder)
 * **Tech Stack: Python and Excel
-* **Problem:** The raw dataset contained inconsistent formatting, duplicate customer entries, and null records, preventing accurate sales reporting.
-* **Solution:** Built a Python cleaning pipeline using Pandas to standardize date structures, impute missing values, and handle anomalous entries.
-* **Key Insight / Outcome:** Produced a cleaned, structured CSV dataset ready for analysis and identified top 3 product sales trends across quarterly data.
+* **Problem:** The raw dataset contained inconsistent formatting, duplicate entries, and null records, preventing an accurate representation of the relation between the factors that make up a movie.
+* **Solution:** Building a correlation Matrix to show us how strong the relationship between the factors that make up the creation of a movie (such as its budget and the gross amount of revenue it makes) are.
+* **Key Insight / Outcome:** Produced a cleaned, structured CSV dataset ready for analysis and identified that the the relationship between a movie's budget, gross revenue, and the amount of votes it has all have a somewhat strong correlation.
 
 
 ---
